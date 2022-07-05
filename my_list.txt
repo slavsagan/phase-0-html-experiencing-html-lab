@@ -3,5 +3,3 @@
 "Pilea"
 "Golden Pothos"
 "Peace Lily"
-:-)
-Hello World!
